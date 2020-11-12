@@ -1,0 +1,91 @@
+body {
+    background: url(https://i.pinimg.com/originals/49/4c/6b/494c6b914a7842e7c0e18cb68d41255e.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+p{
+    font-style: initial;
+}
+img{
+    border-radius: 1%;
+}
+div th{
+    margin: 50%;
+}
+h1 b, h2 b{
+    font-size: 200%;
+}
+#submunicipios{
+    font-size: 300%;
+}
+#masinfo1,#masinfo2,#masinfo3,#masinfo4,#masinfo5,#masinfo6,#masinfo7,#masinfo8,#masinfo9,#masinfo10,#masinfo11,#masinfo12{
+    margin: 0px 380px;
+    width: 250px;
+}
+#masmun{
+    width: 250px;
+}
+hr{
+    background-color: white;
+}
+.otros{
+    border-radius: 4px;
+    margin: 0px 42px;
+    border: 2px solid rgb(153, 150, 146);
+    background-color: rgb(153, 150, 146);
+    color: white;
+}
+#nea{
+    background-color: rgb(44, 86, 148);
+}
+
+#nia{
+    color: white;
+}
+
+.image-grid-cover {
+    width: 100%;
+    background-size: cover;
+    min-height: 180px;
+    position: relative;
+    margin-bottom: 30px;
+    text-shadow: rgba(0,0,0,.8) 0 1px 0;
+    border-radius: 4px;
+}
+.image-grid-clickbox {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    z-index: 20;
+    background: rgba(0,0,0,.45);
+}
+.cover-wrapper {
+    font-size: 18px;
+    text-align: center;
+    display: block;
+    color: #fff;
+    text-shadow: rgba(0,0,0,.8) 0 1px 0;
+    z-index: 21;
+    position: relative;
+    top: 80px;
+}
+a, a:focus, a:hover {
+    text-decoration: none;
+    outline: 0;
+}
+
+#masmun{
+    width: 200px;
+}
+
+#epa{
+    width: 700px;
+    height: 500px;
+}
+
+#let{
+    color: rgb(217, 230, 255);
+}
